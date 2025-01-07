@@ -1,0 +1,13 @@
+self
+dom
+REST
+CRUD
+croarse / origin
+sync / async
+POSIX functions
+promise() : When dealing with a situation where it is difficult to determine when the task will be completed because it depends on an external service which we do not have control over. Promise objects are a means to handle these problems asynchronously with an efficient API. Previously in JavaScript we used callbacks to handle asynchronous tasks however callbacks had many problems when it came to handling async tasks that depend on each other and hence promises was born.
+then () : In JavaScript, . then() and . finally() are methods used with Promises. The . then() method is called after a Promise is fulfilled (resolved) and it returns a new Promise that will resolve to the value returned by the callback function.
+window : The window object is supported by all browsers. It represents the browser's window. 
+await : t makes JavaScript wait for the promise object to settle before running the code in the next line
+_dir : 
+i
